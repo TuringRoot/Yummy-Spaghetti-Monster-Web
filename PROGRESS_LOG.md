@@ -20,3 +20,6 @@ This file tracks development progress with timestamped entries.
 ## Entry: 2025-11-06 17:45:26
 - Frontend tweaks: refine animation timing
 
+## Entry: 2025-11-13 17:45:26
+- Bug fix: correct event listener cleanup
+
